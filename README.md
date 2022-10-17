@@ -5,9 +5,6 @@
 <!--   ### Github Trophies:-
  [![trophy](https://github-profile-trophy.vercel.app/?username=taojintianxia&theme=gruvbox)](https://github.com/taojintianxia)-->
 <div align="left" > 
- 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=taojintianxia&count_private=true&theme=tokyonight&showicons=true)]()
-<div align="left">  
     
 </div > 
 
