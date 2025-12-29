@@ -1,7 +1,5 @@
 ### Hi there, this is Nianjun Sun
 
-Apache ShardingSphere Commiter
-
 <!--   ### Github Trophies:-
  [![trophy](https://github-profile-trophy.vercel.app/?username=taojintianxia&theme=gruvbox)](https://github.com/taojintianxia)-->
 <div align="left" > 
