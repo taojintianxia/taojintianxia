@@ -9,8 +9,10 @@
     
 </div > 
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taojintianxia&layout=compact"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=taojintianxia"/></td></tr></table>
-<!--   
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taojintianxia&langs_count=5&theme=tokyonight)]() -->
-
+<p align="left">
+<a href="https://github.com/taojintianxia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taojintianxia&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taojintianxia&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 </div>
